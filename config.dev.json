@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100094118835962",
+    "61551757747742",
     ""
   ],
   "whiteListMode": {
@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "chris stars",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100094118835962",
-  "prefix": ">",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
